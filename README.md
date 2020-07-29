@@ -5,7 +5,7 @@
 
 ![][picture]
 
-[picture]:https://github.com/huzhuorong/First/raw/master/First/img/picture.jpg "我的照片"
+[picture]:https://github.com/huzhuorong/First/raw/master/img/picture.jpg "我的照片"
 
 
 <!--
