@@ -3,6 +3,10 @@
 
 💬 软件开发者
 
+![][picture]
+
+[picture]:https://github.com/huzhuorong/First.git/raw/master/img/picture.jpg
+
 
 <!--
 **huzhuorong/huzhuorong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
