@@ -5,7 +5,7 @@
 
 ![][picture]
 
-[picture]:https://github.com/huzhuorong/First/raw/master/img/picture
+[picture]:https://github.com/huzhuorong/raw/master/First/img/picture.jpg
 
 
 <!--
